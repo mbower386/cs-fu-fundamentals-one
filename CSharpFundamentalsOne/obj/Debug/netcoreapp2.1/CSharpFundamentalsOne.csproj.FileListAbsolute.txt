@@ -1,0 +1,11 @@
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/bin/Debug/netcoreapp2.1/CSharpFundamentalsOne.deps.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/bin/Debug/netcoreapp2.1/CSharpFundamentalsOne.runtimeconfig.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/bin/Debug/netcoreapp2.1/CSharpFundamentalsOne.runtimeconfig.dev.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/bin/Debug/netcoreapp2.1/CSharpFundamentalsOne.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/bin/Debug/netcoreapp2.1/CSharpFundamentalsOne.pdb
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/obj/Debug/netcoreapp2.1/CSharpFundamentalsOne.csprojAssemblyReference.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/obj/Debug/netcoreapp2.1/CSharpFundamentalsOne.csproj.CoreCompileInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/obj/Debug/netcoreapp2.1/CSharpFundamentalsOne.AssemblyInfoInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/obj/Debug/netcoreapp2.1/CSharpFundamentalsOne.AssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/obj/Debug/netcoreapp2.1/CSharpFundamentalsOne.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-fu-fundamentals-one/CSharpFundamentalsOne/obj/Debug/netcoreapp2.1/CSharpFundamentalsOne.pdb
